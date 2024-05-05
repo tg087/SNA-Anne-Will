@@ -1,0 +1,15 @@
+Edgelist:
+
+from = ID des Gastes
+to = ID der Teilnahme Sendung/Mitgliedschaft Partei
+relationship: 1 = Teilnahme an Sendung 2 = Mitglied einer Partei
+
+
+
+Nodelist:
+
+id = ID aus Edgelist
+mitglied = Name des Gastes/Folge mit diesem Gast
+party = Partei der dieser Gast angehört
+sector = Gebiet in dem dieser Gast tätig ist
+country = Land in dem Gast geboren ist
